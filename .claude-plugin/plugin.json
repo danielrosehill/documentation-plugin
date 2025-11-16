@@ -1,0 +1,55 @@
+{
+  "name": "tech-docs",
+  "description": "Claude Code plugin for documentation generation, technical writing, README creation, and documentation management workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Rosehill",
+    "email": "public@danielrosehill.com",
+    "url": "https://danielrosehill.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielrosehill/documentation-plugin"
+  },
+  "commands": [
+    "./commands/misc/add-apps-index-badge.md",
+    "./commands/misc/add-index-badge-and-structure.md",
+    "./commands/misc/add-master-index-badge.md",
+    "./commands/misc/add-mit-license.md",
+    "./commands/misc/add-related-repos-section.md",
+    "./commands/misc/add-repo-index.md",
+    "./commands/misc/add-vibe-coding-disclosure.md",
+    "./commands/misc/add-watermark.md",
+    "./commands/misc/add-wip.md",
+    "./commands/misc/adding-to-awesome-list.md",
+    "./commands/misc/choose-license.md",
+    "./commands/misc/clean-markdown.md",
+    "./commands/misc/convert-to-markdown.md",
+    "./commands/misc/create-changelog.md",
+    "./commands/misc/create-docs-folder.md",
+    "./commands/misc/create-reference.md",
+    "./commands/misc/docs-1.md",
+    "./commands/misc/document-stack.md",
+    "./commands/misc/format-links.md",
+    "./commands/misc/markdown-files.md",
+    "./commands/misc/markdown-to-other-formats.md",
+    "./commands/misc/note-ai-human-attrib.md",
+    "./commands/misc/repo-links-as-badges.md",
+    "./commands/misc/review-this-docs-repo.md",
+    "./commands/misc/rewrite-in-shakespearean.md",
+    "./commands/misc/shields-badges.md",
+    "./commands/misc/tech-documentation.md",
+    "./commands/misc/user-docs.md",
+    "./commands/readme/add-readme.md",
+    "./commands/readme/context-to-readme-and-claude.md",
+    "./commands/readme/create-readme.md",
+    "./commands/readme/readme-to-blog-post.md",
+    "./commands/readme/stopgap-readme.md",
+    "./commands/readme/update-readme.md"
+  ],
+  "keywords": [
+    "misc",
+    "documentation"
+  ]
+}
