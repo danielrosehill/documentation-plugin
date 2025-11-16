@@ -1,6 +1,24 @@
 [![Claude Code Plugins Collection](https://img.shields.io/badge/Claude%20Code-Plugins%20Collection-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Plugins)
 
-# CC-Plugin-documentation
+## Tech Docs Plugin
+
+This Claude Code plugin is part of my public marketplace.
+
+**To install the marketplace:**
+
+```bash
+/plugin marketplace add https://github.com/danielrosehill/Claude-Code-Plugins
+```
+
+**Plugin Installation:**
+
+To install this plugin:
+
+```bash
+/plugin install tech-docs@danielrosehill
+```
+
+---
 
 Claude Code plugin for documentation slash commands and agents.
 
